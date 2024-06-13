@@ -1,8 +1,10 @@
 import React from 'react'
+import NavBar from './NavBar'
 
 const SignUp = () => {
   return (
     <div>
+        <NavBar/>
         <h1><center>SignUp</center></h1>
         <div className="container">
             <div className="row">
